@@ -398,8 +398,8 @@ function draw() {
   }
   
    fill("white")
-   textSize(20);
-  text("flappy bird 2.0",10,20)
+   textSize(40);
+  text("ZooScape",10,40)
      textSize(35);
 
   text("-R.Sree Yuvanash",200,430)
