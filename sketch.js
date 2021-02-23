@@ -87,7 +87,7 @@ function preload(){
 
 function setup() {
  
-  createCanvas(800,440);
+  createCanvas(700,440);
   background ("black")
   
   bac=createSprite(350,200);
@@ -405,7 +405,7 @@ function draw() {
 
   text("-R.Sree Yuvanash",200,430)
 
-    image(capture, 725, 370, 75, 75);
+    image(capture, 625, 370, 75, 75);
 
   
 }
